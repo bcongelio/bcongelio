@@ -25,4 +25,5 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a> <a href="https://github.com" target="_blank" rel="norefer" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" width="40" height="40" /> </a> <a href="https://npmjs.com" target="_blank" rel="norefer" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" /> </a> <a href="https://prisma.io" target="_blank" rel="norefer" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /> </a> <a href="https://tailwindcss.com" target="_blank" rel="norefer" /> 
 </p>
