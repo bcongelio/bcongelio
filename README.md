@@ -19,7 +19,7 @@ I am developing a comprehensive analytical framework that integrates spatial ana
 
 - **Multi-Tournament Spatial Analysis**: Leveraging Dewey Data grant support to examine tournament outcomes across multiple venues and seasons (2023-2025 Elite Series), investigating how location strategies vary by lake type, seasonal timing, and competitive field composition.
 
- <h3>sport Sales Training Platform</h3>
+ <h3>Sport Sales Training Platform</h3>
 
 Development of a comprehensive web-based platform - SportSales.app - that transforms sales education through:
 
