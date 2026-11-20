@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brad Congelio</h1>
 <h3 align="center">git commit -m"Associate Professor | Sport Analytics | Big Data"</h3>
 
-<p align="center"> <a href="https://twitter.com/BradCongelio" target="blank"><img src="https://img.shields.io/twitter/follow/BradCongelio?logo=twitter&style=for-the-badge" alt="BradCongelio" /></a> </p>
-
 I am Brad Congelio, Associate Professor of Sport Management and University Assessment Fellow at Kutztown University of Pennsylvania. My work sits at the intersection of spatial analytics, sport tourism economics, and computational sport science, where I develop novel methodological frameworks that advance both scholarly understanding and industry practice.
 
 My research program combines advanced econometric modeling with machine learning applications to address complex questions in sport management. Recent work includes developing spatial-competitive analytics frameworks for professional bass fishing, published in venues ranging from Applied Spatial Analysis and Policy to the Hawaii International Conference on System Sciences. I have received competitive external funding for this research, including a Dewey Data Research Grant to support location-intelligence analysis across multiple tournament venues.
@@ -31,6 +29,5 @@ Voice-to-Voice Integration: Currently developing conversational AI features usin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bcongelio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bcongelio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brad-congelio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brad-congelio" height="30" width="40" /></a>
 </p>
